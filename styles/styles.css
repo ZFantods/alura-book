@@ -9,9 +9,13 @@
     --background-color: #EBECEE;
     --white: #FFFFFF;
     --orange: #EB9B00;
+    --black: #000000;
     --blue-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
-    --font-primary: "Poppins";
     --blue: #002F52;
+    --grey: #474646;
+    --light-grey: #858585;
+    --font-primary: "Poppins";
+    --font-secondary: "Josefin Sans";
 }
 
 body {
